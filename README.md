@@ -57,3 +57,5 @@ The Customers Dashboard focuses on customer metrics, including acquisition, sale
 4. **Trends Analysis:**
     
     - Monthly trends for KPIs with highlights for highest (blue) and lowest (red) months.
+
+Versión en español [aqui](README-ES.md)
