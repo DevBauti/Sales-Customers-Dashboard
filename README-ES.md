@@ -58,4 +58,4 @@ El Panel de control de clientes se centra en las métricas de los clientes, incl
 
 - Tendencias mensuales de los KPI con detalles de los meses más altos (azul) y más bajos (rojo).
 
-English version [here](README.md)
+English version [here](README.md) 
