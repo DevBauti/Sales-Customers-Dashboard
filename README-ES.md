@@ -6,6 +6,10 @@ Panel de ventas y clientes con Tableau
 Este documento proporciona una descripción completa de dos paneles interactivos: el **Panel de ventas** y el **Panel de clientes**. Estas herramientas permiten a los usuarios explorar dinámicamente métricas clave con opciones de filtrado por año, categoría, subcategoría, ubicación y más.
 
 ---
+![Sales Dashboard](src/img-sales&customers.png)
+
+![Customers Dashboard](src/img-sales&customers1.png)
+---
 
 ## 1. Panel de ventas
 

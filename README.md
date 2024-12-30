@@ -6,6 +6,10 @@ Sales and Custumers Dashboard with Tableau
 This document provides a comprehensive description of two interactive dashboards: the **Sales Dashboard** and **Customers Dashboard**. These tools enable users to dynamically explore key metrics with filtering options for year, category, sub-category, location, and more.
 
 ---
+![Sales Dashboard](src/img-sales&customers.png)
+
+![Customers Dashboard](src/img-sales&customers1.png)
+---
 
 ## 1. Sales Dashboard
 
